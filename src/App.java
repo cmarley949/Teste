@@ -27,12 +27,13 @@ public class App {
             System.out.println(x);
         }
 
-        
+        // Manipular ArrayList
         System.out.println("=".repeat(50));
         System.out.println("Tamanho: ");
         System.out.println(produtos.size());
         produtos.remove(1);
 
+        // Manipular ArrayList
         System.out.println("=".repeat(50));
         System.out.println("Substituição:");
         System.out.println("=".repeat(50));
